@@ -1,2 +1,8 @@
 # perio-dont-titis
-Classification of teeth as healthy or periodontitis from linear measurements from bitewing X-rays
+# Peridontitis Classification using linear measurements from bitewing X-rays
+
+One Paragraph of the project description
+
+
+## Getting Started
+
